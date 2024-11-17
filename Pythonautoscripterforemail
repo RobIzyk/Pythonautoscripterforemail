@@ -38,11 +38,11 @@ def send_email(sender_email, sender_password, recipient_email, subject, body):
 # Main script
 if __name__ == "__main__":
     # Replace with your details
-    sender_email = "blueroctor@gmail.com"
-    sender_password = "kmru mpex tzje exds"
-    recipient_email = "williamloggins@gmail.com"
+    sender_email = ""
+    sender_password = ""
+    recipient_email = ""
     subject = "This is a test, hope you find it kinda funny"
-    file_path = file_path = file_path = r"C:\Users\User\Desktop\NavySealCopypastaTest.txt"  # Corrected path
+    file_path = file_path = file_path = r""  # Enter text file path
   # Replace with the path to your text file
 
     # Extract text and send email
